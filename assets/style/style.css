@@ -51,6 +51,9 @@ form input.operator{
 }
 
 @media only screen and (max-width: 600px) {
+    form .display input{
+        font-size: 35px;
+    }
     .calculator input{
         height: 45px;
         width: 45px;
